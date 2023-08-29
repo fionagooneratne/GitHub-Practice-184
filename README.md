@@ -39,7 +39,7 @@
 # Class GitHub Table 
 
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
-|:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
+| Fiona Gooneratne        | Section 002       | fionagooneratne      | https://github.com/fionagooneratne/GitHub-Practice-184   |  
 | Hannah Sugden           | Section 003       | hjs5560              | https://github.com/hjs5560/GitHub-Practice-184                      |  
 | Olivia Beck             | Section 050       | olbeck               | https://github.com/olbeck/GitHub-Practice-184            |  
 | Xihui Xu                | Section 002       | xihuixu              | https://github.com/xihuixu/GitHub-Practice-184           |      
